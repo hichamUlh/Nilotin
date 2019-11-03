@@ -308,7 +308,7 @@ client.on('message', message => {
 });
 //////
 client.on("guildMemberAdd", member => {
-  client.channels.find('id', '582093431770185745').send(` **Welcome To .. Server**  `)
+  client.channels.find('id', '640659236086480915').send(` **Welcome To .. Server**  `)
 });
 /////////
 client.on('message', msg => {
